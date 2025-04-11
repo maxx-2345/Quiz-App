@@ -52,4 +52,40 @@ var questions = [
       'By calling updateState()',
     ],
   ),
+  QuizQuestion(
+    'Which language is primarily used to write Flutter apps?',
+    [
+      'Dart',
+      'Java',
+      'Kotlin',
+      'Swift',
+    ],
+  ),
+  QuizQuestion(
+    'What command is used to create a new Flutter project?',
+    [
+      'flutter create project_name',
+      'flutter new project_name',
+      'flutter init project_name',
+      'flutter start project_name',
+    ],
+  ),
+  QuizQuestion(
+    'What does the pubspec.yaml file do in a Flutter project?',
+    [
+      'Manages project dependencies',
+      'Defines app layout',
+      'Handles routing logic',
+      'Stores user settings',
+    ],
+  ),
+  QuizQuestion(
+    'Which widget is used to add padding around other widgets?',
+    [
+      'Padding',
+      'Container',
+      'SizedBox',
+      'Margin',
+    ],
+  ),
 ];
